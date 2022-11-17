@@ -4,7 +4,7 @@
 
 Meu primeiro projeto simples, feito no curso Explorer da Rocketseat.
 
-[🔗clique aqui para acessar](https://larissaaleall.github.io/Ambientes/)
+[🔗clique aqui para acessar](https://LarissaaLeall.github.io/Ambientes/)
 
 ## Tecnologias 
 
