@@ -4,9 +4,9 @@
 
 Meu primeiro projeto simples, feito no curso Explorer da Rocketseat.
 
-[🔗clique aqui para acessar](https://github.com/LarissaaLeall/Ambientes.git)
+[🔗clique aqui para acessar](https://larissaaleall.github.io/Ambientes/)
 
-## Tecnologias 😉
+## Tecnologias 
 
 - HTML
 - CSS
